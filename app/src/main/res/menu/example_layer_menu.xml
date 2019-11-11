@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/option_myLocation_1"
+        android:title="My Location"/>
+
+    <item
+        android:id="@+id/option_other_Location_2"
+        android:title="Other Location"/>
+
+    <item
+        android:id="@+id/option_track_3"
+        android:title="Track"/>
+
+</menu>
